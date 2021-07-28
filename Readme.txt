@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
+This is a software company website
 
-Theme Name: NewBiz
-Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
